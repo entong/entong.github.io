@@ -47,17 +47,21 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      I am a software engineer at Amazon Web Services, working in the query processing 
+      I enjoy building distributed databases with a focus on query processing. Currently
+      I work in the query processing 
       team of [Amazon Redshift](https://aws.amazon.com/redshift/). Redshift is a fully 
       managed, petabyte-scale cloud data 
-      warehouse. Previously I worked as a research scientist at Datometry and prior to 
-      that I was part of the query optimization team of Greenplum Database at 
-      Pivotal Software.
+      warehouse. Previously I worked as a research scientist at [Datometry](https://datometry.com) 
+      on query cross compilation and prior to 
+      that I was part of the query optimizer team of [Greenplum Database](https://greenplum.org/) at 
+      [Pivotal](https://pivotal.io/).
 
-      I got my Ph.D. degree in the Department of Computer Science at North Carolina 
-      State University. My advisor was Dr. Ting Yu. Before I came to NC State University, 
-      I obtained my B.S. degree in Control Science and Engineering from Zhejiang University, 
-      Hangzhou, China. I am an alumni of Tianjin Nankai High School.
+      I got my Ph.D. degree in the Department of Computer Science at 
+      [North Carolina State University](https://www.ncsu.edu). 
+      My advisor was [Dr. Ting Yu](https://scholar.google.com/citations?user=pHMIJG8AAAAJ&hl=en). 
+      Before I came to NC State University, 
+      I obtained my Bachelor degree from [Zhejiang University](http://www.zju.edu.cn/english/), 
+      Hangzhou, China. I am an alumni of [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School).
 
 # education:
 #     - degree: MSc in Computer Science
