@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Entong Shen
-    tagline: Database Developer
+    tagline: Tempo Rubato
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,13 +47,17 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am a software engineer at Amazon Web Services, working in the query processing 
+      team of [Amazon Redshift](https://aws.amazon.com/redshift/). Redshift is a fully 
+      managed, petabyte-scale cloud data 
+      warehouse. Previously I worked as a research scientist at Datometry and prior to 
+      that I was part of the query optimization team of Greenplum Database at 
+      Pivotal Software.
 
-      Second paragraph if required.
+      I got my Ph.D. degree in the Department of Computer Science at North Carolina 
+      State University. My advisor was Dr. Ting Yu. Before I came to NC State University, 
+      I obtained my B.S. degree in Control Science and Engineering from Zhejiang University, 
+      Hangzhou, China. I am an alumni of Tianjin Nankai High School.
 
 # education:
 #     - degree: MSc in Computer Science
