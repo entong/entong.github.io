@@ -47,14 +47,15 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      I enjoy building distributed databases with a focus on query processing. Currently
+      I enjoy building distributed databases with a focus on query processing and 
+      have worked on multiple database engines. Currently
       I work in the query processing 
       team of [Amazon Redshift](https://aws.amazon.com/redshift/). Redshift is a fully 
       managed, petabyte-scale cloud data 
       warehouse. Previously I worked as a research scientist at [Datometry](https://datometry.com) 
       on query cross compilation and prior to 
       that I was part of the query optimizer team of [Greenplum Database](https://greenplum.org/) at 
-      [Pivotal](https://pivotal.io/).
+      [Pivotal](https://pivotal.io/), working on [ORCA](https://github.com/greenplum-db/gporca).
 
       I got my Ph.D. degree in the Department of Computer Science at 
       [North Carolina State University](https://www.ncsu.edu). 
@@ -63,6 +64,9 @@ career-profile:
       I obtained my Bachelor degree from [Zhejiang University](http://www.zju.edu.cn/english/), 
       Hangzhou, China. I am an alumni of [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School).
 
+      My research interest includes query processing in massive parallel database systems and 
+      privacy-preserving data publishing and data mining.
+#
 # education:
 #     - degree: MSc in Computer Science
 #       university: University of London
@@ -91,9 +95,9 @@ career-profile:
 #           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Amazon Redshift Query Processing
+      time: 2017 - Present
+      company: Amazon Web Services
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -108,9 +112,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Query Cross Compilation
+      time: 2016 - 2017
+      company: Datometry
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,9 +125,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Greenplum Optimizer (ORCA)
+      time: 2013 - 2016
+      company: Pivotal
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -134,75 +138,78 @@ experiences:
           - Bullet point
           - Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Selected publications. For the full list please refer to my 
+      [Google Scholar page](https://scholar.google.com/citations?user=6VNvmSEAAAAJ&hl=en).
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Orca: A Modular Query Optimizer Architecture for Big Data"
+        authors: MA Soliman, L. Antova, V. Raghavan, A. El-Helw, Z. Gu, E. Shen, GC Caragea, C. Garcia-Alvarado, F. Rahman, M. Petropoulos, F. Waas, S. Narayanan, K. Krikellas, R. Baldwin
+        conference: 2014 ACM SIGMOD International Conference on Management of Data
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Datometry Hyper-Q: Bridging the Gap Between Real-Time and Historical Analytics"
+        authors: L. Antova, R. Baldwin, D. Bryant, T. Cao, M. Duller, J. Eshleman, Z. Gu, E. Shen, MA Soliman, F. Waas
+        conference: 2016 ACM SIGMOD International Conference on Management of Data
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Mining Frequent Graph Patterns with Differential Privacy
+        authors: Entong Shen, Ting Yu
+        conference: "2013 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Differentially Private Spatial Decompositions
+        authors: G Cormode, C Procopiuc, D Srivastava, E Shen, T Yu
+        conference: Data engineering (ICDE), 2012 IEEE 28th international conference on, 20-31
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+# skills:
+#     title: Skills &amp; Proficiency
 
-      - name: Javascript & jQuery
-        level: 98%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: Angular
+#         level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Ruby on Rails
+#         level: 85%
+
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
