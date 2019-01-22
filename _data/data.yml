@@ -173,7 +173,7 @@ publications:
       [Google Scholar page](https://scholar.google.com/citations?user=6VNvmSEAAAAJ&hl=en).
 
     papers:
-      - title: "Orca: A Modular Query Optimizer Architecture for Big Data"
+      - title: "Orca: A Modular Query Optimizer Architecture for Big Data" [[pdf]](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)
         authors: MA Soliman, L. Antova, V. Raghavan, A. El-Helw, Z. Gu, E. Shen, GC Caragea, C. Garcia-Alvarado, F. Rahman, M. Petropoulos, F. Waas, S. Narayanan, K. Krikellas, R. Baldwin
         conference: 2014 ACM SIGMOD International Conference on Management of Data
 
@@ -197,7 +197,7 @@ publications:
         authors: G Cormode, CM Procopiuc, E Shen, D Srivastava, T Yu
         conference: 2013 IEEE 29th International Conference on Data Engineering Workshops 
 
-publications:
+patents:
     title: Patents
 
     papers:
