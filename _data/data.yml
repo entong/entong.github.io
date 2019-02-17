@@ -52,10 +52,20 @@ career-profile:
       I work in the query processing 
       team of [Amazon Redshift](https://aws.amazon.com/redshift/). Redshift is a fully 
       managed, petabyte-scale cloud data 
-      warehouse. Previously I worked as a research scientist at [Datometry](https://datometry.com) 
+      warehouse. 
+
+      Previously I worked as a research scientist at [Datometry](https://datometry.com) 
       on query cross compilation and prior to 
       that I was part of the query optimizer team of [Greenplum Database](https://greenplum.org/) at 
       [Pivotal](https://pivotal.io/), working on [ORCA](https://github.com/greenplum-db/gporca).
+
+      I am a [Apache HAWQ](http://hawq.apache.org/) PMC member. Apache HAWQ is an MPP-based enterprise 
+      analytical engine natively for Apache Hadoop.
+
+      I served on the program committee of [SIGMOD 2019](http://sigmod2019.org/) industrial track and CIKM 2014 research track.
+      I am a regular reviewer for IEEE Transactions on Knowledge and Data Engineering ([TKDE](https://www.computer.org/web/tkde)).
+      My research interest includes query processing in massive parallel database systems and 
+      privacy-preserving data publishing and data mining.
 
       I got my Ph.D. degree in the Department of Computer Science at 
       [North Carolina State University](https://www.ncsu.edu). 
@@ -64,8 +74,7 @@ career-profile:
       I obtained my Bachelor degree from [Zhejiang University](http://www.zju.edu.cn/english/), 
       Hangzhou, China. I am an alumni of [Tianjin Nankai High School](https://en.wikipedia.org/wiki/Tianjin_Nankai_High_School).
 
-      My research interest includes query processing in massive parallel database systems and 
-      privacy-preserving data publishing and data mining.
+      
 #
 # education:
 #     - degree: MSc in Computer Science
