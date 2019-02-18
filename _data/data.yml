@@ -166,27 +166,27 @@ publications:
     papers:
       - title: Orca - A Modular Query Optimizer Architecture for Big Data
         authors: MA Soliman, L. Antova, V. Raghavan, A. El-Helw, Z. Gu, E. Shen, GC Caragea, C. Garcia-Alvarado, F. Rahman, M. Petropoulos, F. Waas, S. Narayanan, K. Krikellas, R. Baldwin
-        conference: 2014 ACM SIGMOD International Conference on Management of Data. [PDF](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)
+        conference: 2014 ACM SIGMOD International Conference on Management of Data. [[pdf](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)] [[src](https://github.com/greenplum-db/gporca)]
 
       - title: "Datometry Hyper-Q: Bridging the Gap Between Real-Time and Historical Analytics"
         authors: L. Antova, R. Baldwin, D. Bryant, T. Cao, M. Duller, J. Eshleman, Z. Gu, E. Shen, MA Soliman, F. Waas
-        conference: 2016 ACM SIGMOD International Conference on Management of Data
+        conference: 2016 ACM SIGMOD International Conference on Management of Data. [[pdf](https://www.dropbox.com/s/f6msbyeu3697xl9/hyper-q.pdf?dl=0)]
 
       - title: Mining Frequent Graph Patterns with Differential Privacy
         authors: Entong Shen, Ting Yu
-        conference: "2013 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+        conference: 2013 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. [[pdf](https://www.dropbox.com/s/7w1cvz9zbf18f0e/kdd13-p545-shen.pdf)] [[slides](https://www.dropbox.com/s/mwl88v6txc89ah9/KDD2013-slides.pdf)]
 
       - title: Differentially Private Spatial Decompositions
         authors: G Cormode, C Procopiuc, D Srivastava, E Shen, T Yu
-        conference: Data engineering (ICDE), 2012 IEEE 28th international conference on, 20-31
+        conference: Data engineering (ICDE), 2012 IEEE 28th international conference on, 20-31. [[pdf](https://www.dropbox.com/s/m30rxvyxz5r58tx/spatial-icde12.pdf)] [[slides](https://www.dropbox.com/s/gwz1qbf883thg82/spatial-slides.pdf)] [[src](https://www.dropbox.com/s/3198sc1cemf7bft/Spatial_DP_v1.zip)]
 
       - title: Reversing Statistics for Scalable Test Databases Generation
         authors: Entong Shen, Lyublena Antova
-        conference: Proceedings of the Sixth International Workshop on Testing Database Systems, 2013
+        conference: Proceedings of the Sixth International Workshop on Testing Database Systems, 2013. [[pdf](https://www.dropbox.com/s/15dvq8huqeoumlx/dbtest13-a7-Shen.pdf)]
 
       - title: Empirical Privacy and Empirical Utility of Anonymized Data
         authors: G Cormode, CM Procopiuc, E Shen, D Srivastava, T Yu
-        conference: 2013 IEEE 29th International Conference on Data Engineering Workshops 
+        conference: 2013 IEEE 29th International Conference on Data Engineering Workshops. [[pdf](https://www.dropbox.com/s/msdhmdp4l14szfk/privDB-2013.pdf)]
 
 # patents:
 #     title: Patents
