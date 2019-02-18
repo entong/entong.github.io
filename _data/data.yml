@@ -168,7 +168,7 @@ publications:
     papers:
       - title: Orca - A Modular Query Optimizer Architecture for Big Data
         authors: MA Soliman, L. Antova, V. Raghavan, A. El-Helw, Z. Gu, E. Shen, GC Caragea, C. Garcia-Alvarado, F. Rahman, M. Petropoulos, F. Waas, S. Narayanan, K. Krikellas, R. Baldwin
-        conference: 2014 ACM SIGMOD International Conference on Management of Data. [(pdf)](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)
+        conference: 2014 ACM SIGMOD International Conference on Management of Data. [PDF](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)
 
       - title: "Datometry Hyper-Q: Bridging the Gap Between Real-Time and Historical Analytics"
         authors: L. Antova, R. Baldwin, D. Bryant, T. Cao, M. Duller, J. Eshleman, Z. Gu, E. Shen, MA Soliman, F. Waas
