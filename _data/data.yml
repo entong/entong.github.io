@@ -108,44 +108,28 @@ experiences:
       time: 2017 - Present
       company: Amazon Web Services
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I work in the Query Processing team of Amazon Redshift. Redshift is a fast, scalable
+        cloud data warehouse powering enterprise analytics. My work has focused on various
+        components on the leader node, including protocol handling, catalog, query optimizer
+        and etc. Major features I have delivered includes:
 
-          - Bullet point
-          - Bullet point
+          - Query Result Cache. Co-lead the design and implementation of query result cache.
+          Featured in [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/get-sub-second-query-response-times-with-amazon-redshift-result-caching/).
+          - Stored Procedure.
 
     - role: Query Cross Compilation
       time: 2016 - 2017
       company: Datometry
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Building a data virtualization layer that makes database interchangeable and easy to migrate to the cloud. The virtualization layer performs online translation of database queries and results, while being complete transparent to the original application.
+          - Designed and implemented Datometry Hyper-Q QueryIntelligence, which performs Feature Gap Analysis and characteristics analysis of customer workload to quickly identify application migration opportunities.
+          - Designed and implemented Toucan, our integration testing and performance testing framework and pipelines.
 
     - role: Greenplum Optimizer (ORCA)
       time: 2013 - 2016
       company: Pivotal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+         Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
 
 # projects:
 #     title: Projects
@@ -182,9 +166,9 @@ publications:
       [Google Scholar page](https://scholar.google.com/citations?user=6VNvmSEAAAAJ&hl=en).
 
     papers:
-      - title: Orca - A Modular Query Optimizer Architecture for Big Data [(pdf)](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)
+      - title: Orca - A Modular Query Optimizer Architecture for Big Data
         authors: MA Soliman, L. Antova, V. Raghavan, A. El-Helw, Z. Gu, E. Shen, GC Caragea, C. Garcia-Alvarado, F. Rahman, M. Petropoulos, F. Waas, S. Narayanan, K. Krikellas, R. Baldwin
-        conference: 2014 ACM SIGMOD International Conference on Management of Data
+        conference: 2014 ACM SIGMOD International Conference on Management of Data. [(pdf)](https://www.dropbox.com/s/b3tv6zfrkznp7vl/gp-orca.pdf?dl=0)
 
       - title: "Datometry Hyper-Q: Bridging the Gap Between Real-Time and Historical Analytics"
         authors: L. Antova, R. Baldwin, D. Bryant, T. Cao, M. Duller, J. Eshleman, Z. Gu, E. Shen, MA Soliman, F. Waas
