@@ -121,15 +121,13 @@ experiences:
       time: 2016 - 2017
       company: Datometry
       details: |
-          - Building a data virtualization layer that makes database interchangeable and easy to migrate to the cloud. The virtualization layer performs online translation of database queries and results, while being complete transparent to the original application.
-          - Designed and implemented Datometry Hyper-Q QueryIntelligence, which performs Feature Gap Analysis and characteristics analysis of customer workload to quickly identify application migration opportunities.
-          - Designed and implemented Toucan, our integration testing and performance testing framework and pipelines.
+        Building a data virtualization layer that makes database interchangeable and easy to migrate to the cloud. The virtualization layer performs online translation of database queries and results, while being complete transparent to the original application.
 
     - role: Greenplum Optimizer (ORCA)
       time: 2013 - 2016
       company: Pivotal
       details: |
-         Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
+        Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
 
 # projects:
 #     title: Projects
