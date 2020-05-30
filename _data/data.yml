@@ -62,8 +62,6 @@ career-profile:
       I am a [Apache HAWQ](http://hawq.apache.org/) PMC member. Apache HAWQ is an MPP-based enterprise 
       analytical engine natively for Apache Hadoop.
 
-      I served on the program committee of [SIGMOD 2019](http://sigmod2019.org/) industrial track and CIKM 2014 research track.
-      I am a regular reviewer for IEEE Transactions on Knowledge and Data Engineering ([TKDE](https://www.computer.org/web/tkde)).
       My research interest includes query processing in massive parallel database systems and 
       privacy-preserving data publishing and data mining.
 
@@ -133,20 +131,15 @@ experiences:
         Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
 
 projects:
-    title: Projects
+    title: Professional Service
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I serve regularly on the program committee of database conferences and as a reviewer
+      for IEEE Transactions on Knowledge and Data Engineering ([TKDE](https://www.computer.org/web/tkde)).
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: PC member
+#        link: "#hook"
+        tagline: "CIKM 2014, SIGMOD 2019 (Industrial Track), VLDB 2020 (Industrial Track), ICDE 2021"
 
 #       - title: Tempo
 #         link: "#"
