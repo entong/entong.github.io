@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Entong Shen
-    tagline: Tempo Rubato
+    tagline: Sr. Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -115,7 +115,10 @@ experiences:
 
           - Query Result Cache. Co-lead the design and implementation of query result cache.
           Featured in [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/get-sub-second-query-response-times-with-amazon-redshift-result-caching/).
-          - Stored Procedure.
+          - Stored Procedure. Lead the design and implementation of PL/pgSQL based stored procedure support for Redshift.
+          [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/bringing-your-stored-procedures-to-amazon-redshift/).
+          - Federated Query. Co-lead the design and implementation of Redshift Federated Query with the ability to query live data in Amazon Aurora PostgreSQL and Amazon RDS PostgreSQL databases.
+          [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-simplified-etl-and-live-data-query-solution-using-redshift-federated-query/).
 
     - role: Query Cross Compilation
       time: 2016 - 2017
@@ -129,21 +132,21 @@ experiences:
       details: |
         Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 #       - title: Tempo
 #         link: "#"
