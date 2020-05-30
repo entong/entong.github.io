@@ -134,7 +134,7 @@ projects:
     title: Professional Service
     intro: >
       I serve regularly on the program committee of database conferences and as a reviewer
-      for IEEE Transactions on Knowledge and Data Engineering ([TKDE](https://www.computer.org/web/tkde)).
+      for IEEE Transactions on Knowledge and Data Engineering.
 
     assignments:
       - title: PC member
@@ -184,21 +184,21 @@ publications:
         authors: G Cormode, CM Procopiuc, E Shen, D Srivastava, T Yu
         conference: 2013 IEEE 29th International Conference on Data Engineering Workshops. [[pdf](https://www.dropbox.com/s/msdhmdp4l14szfk/privDB-2013.pdf)]
 
-# patents:
-#     title: Patents
+patents:
+    title: Patents
 
-#     papers:
-#       - title: "Methods and Apparatus to Anonymize a Dataset of Spatial Data"
-#         authors: GR Cormode, CM Procopiuc, D Srivastava, E Shen
-#         conference: US Patent 8,627,488
+    papers:
+      - title: "Methods and Apparatus to Anonymize a Dataset of Spatial Data"
+        authors: GR Cormode, CM Procopiuc, D Srivastava, E Shen
+        conference: US Patent 8,627,488
 
-#       - title: "Method and System for Transparent Interoperability between Applications and Data Management Systems"
-#         authors: FM Waas, M Soliman, Z Gu, LR Antova, TA Cao, E Shen, MA Duller
-#         conference: US Patent App. 16/018,321
+      - title: "Method and System for Transparent Interoperability between Applications and Data Management Systems"
+        authors: FM Waas, M Soliman, Z Gu, LR Antova, TA Cao, E Shen, MA Duller
+        conference: US Patent App. 16/018,321
 
-#       - title: Method and System for Workload Management for Data Management Systems
-#         authors: FM Waas, M Soliman, Z Gu, LR Antova, TA Cao, E Shen, MA Duller
-#         conference: US Patent App. 15/250,887
+      - title: Method and System for Workload Management for Data Management Systems
+        authors: FM Waas, M Soliman, Z Gu, LR Antova, TA Cao, E Shen, MA Duller
+        conference: US Patent App. 15/250,887
 
 # skills:
 #     title: Skills &amp; Proficiency
