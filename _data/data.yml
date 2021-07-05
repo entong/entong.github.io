@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Entong Shen
-    tagline: Sr. Software Engineer
+    tagline: Engineering Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,12 +47,7 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      I enjoy building distributed databases with a focus on query processing and 
-      have worked on multiple database engines. Currently
-      I work in the query processing 
-      team of [Amazon Redshift](https://aws.amazon.com/redshift/). Redshift is a fully 
-      managed, petabyte-scale cloud data 
-      warehouse. 
+      I manage an engineering team in the query processing group of [Amazon Redshift](https://aws.amazon.com/redshift/). My responsibilities include Redshift SQL language features, ingestion, migrations and query federation. I am passionate about recruiting, growing, and leading high-performance engineering teams.
 
       Previously I worked as a research scientist at [Datometry](https://datometry.com) 
       on query cross compilation and prior to 
@@ -106,10 +101,8 @@ experiences:
       time: 2017 - Present
       company: Amazon Web Services
       details: |
-        I work in the Query Processing team of Amazon Redshift. Redshift is a fast, scalable
-        cloud data warehouse powering enterprise analytics. My work has focused on various
-        components on the leader node, including protocol handling, catalog, query optimizer
-        and etc. Major features I have delivered includes:
+        I manage a team in the Query Processing group of Amazon Redshift with a focus on the QP upper layer. Redshift is a fast, scalable
+        cloud data warehouse powering enterprise analytics.  Major features I have delivered includes:
 
           - Query Result Cache. Co-lead the design and implementation of query result cache.
           Featured in [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/get-sub-second-query-response-times-with-amazon-redshift-result-caching/).
@@ -139,7 +132,7 @@ projects:
     assignments:
       - title: PC member
 #        link: "#hook"
-        tagline: "CIKM 2014, SIGMOD 2019 (Industrial Track), VLDB 2020 (Industrial Track), ICDE 2021"
+        tagline: "CIKM 2014, SIGMOD 2019 (Industrial Track), VLDB 2020 (Industrial Track), ICDE 2021, SIGMOD 2022, ICDE 2022"
 
 #       - title: Tempo
 #         link: "#"
