@@ -56,9 +56,6 @@ career-profile:
       on query cross compilation. Earlier I was part of the query optimizer team of [Greenplum Database](https://greenplum.org/),
       working on [ORCA](https://github.com/greenplum-db/gporca).
 
-      I am a [Apache HAWQ](http://hawq.apache.org/) PMC member. Apache HAWQ is an MPP-based enterprise 
-      analytical engine natively for Apache Hadoop.
-
       My research interest includes query processing in massive parallel database systems and 
       privacy-preserving data publishing and data mining.
 
