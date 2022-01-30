@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Entong Shen
-    tagline: Engineering Manager
+    tagline: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,12 +47,14 @@ sidebar:
 career-profile:
     title: Bio
     summary: |
-      I manage an engineering team in the query processing group of [Amazon Redshift](https://aws.amazon.com/redshift/). My responsibilities include Redshift SQL language features, ingestion, migrations and query federation. I am passionate about recruiting, growing, and leading high-performance engineering teams.
+      I work as an engineering manager in the query engine group of [Databricks](https://www.databricks.com). My team
+      focuses on delivering best-in-class SQL experience for customers with modern, rich and easy-to-use language features.
 
-      Previously I worked as a research scientist at [Datometry](https://datometry.com) 
-      on query cross compilation and prior to 
-      that I was part of the query optimizer team of [Greenplum Database](https://greenplum.org/) at 
-      [Pivotal](https://pivotal.io/), working on [ORCA](https://github.com/greenplum-db/gporca).
+      Previously I managed an engineering team in [Amazon Redshift](https://aws.amazon.com/redshift/) with 
+      responsibilities on Redshift SQL language features, ingestion, migrations and query federation. Prior to that
+      I worked as a research scientist at [Datometry](https://datometry.com) 
+      on query cross compilation. Earlier I was part of the query optimizer team of [Greenplum Database](https://greenplum.org/),
+      working on [ORCA](https://github.com/greenplum-db/gporca).
 
       I am a [Apache HAWQ](http://hawq.apache.org/) PMC member. Apache HAWQ is an MPP-based enterprise 
       analytical engine natively for Apache Hadoop.
@@ -96,32 +98,32 @@ career-profile:
 #           - Bullet point
 #           - Bullet point
 
-experiences:
-    - role: Amazon Redshift Query Processing
-      time: 2017 - Present
-      company: Amazon Web Services
-      details: |
-        I manage a team in the Query Processing group of Amazon Redshift with a focus on the QP upper layer. Redshift is a fast, scalable
-        cloud data warehouse powering enterprise analytics.  Major features I have delivered includes:
+# experiences:
+#     - role: Amazon Redshift Query Processing
+#       time: 2017 - 2021
+#       company: Amazon Web Services
+#       details: |
+#         I manage a team in the Query Processing group of Amazon Redshift with a focus on the QP upper layer. Redshift is a fast, scalable
+#         cloud data warehouse powering enterprise analytics.  Major features I have delivered includes:
 
-          - Query Result Cache. Co-lead the design and implementation of query result cache.
-          Featured in [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/get-sub-second-query-response-times-with-amazon-redshift-result-caching/).
-          - Stored Procedure. Lead the design and implementation of PL/pgSQL based stored procedure support for Redshift.
-          [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/bringing-your-stored-procedures-to-amazon-redshift/).
-          - Federated Query. Co-lead the design and implementation of Redshift Federated Query with the ability to query live data in Amazon Aurora PostgreSQL and Amazon RDS PostgreSQL databases.
-          [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-simplified-etl-and-live-data-query-solution-using-redshift-federated-query/).
+#           - Query Result Cache. Co-lead the design and implementation of query result cache.
+#           Featured in [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/get-sub-second-query-response-times-with-amazon-redshift-result-caching/).
+#           - Stored Procedure. Lead the design and implementation of PL/pgSQL based stored procedure support for Redshift.
+#           [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/bringing-your-stored-procedures-to-amazon-redshift/).
+#           - Federated Query. Co-lead the design and implementation of Redshift Federated Query with the ability to query live data in Amazon Aurora PostgreSQL and Amazon RDS PostgreSQL databases.
+#           [AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-simplified-etl-and-live-data-query-solution-using-redshift-federated-query/).
 
-    - role: Query Cross Compilation
-      time: 2016 - 2017
-      company: Datometry
-      details: |
-        Building a data virtualization layer that makes database interchangeable and easy to migrate to the cloud. The virtualization layer performs online translation of database queries and results, while being complete transparent to the original application.
+#     - role: Query Cross Compilation
+#       time: 2016 - 2017
+#       company: Datometry
+#       details: |
+#         Building a data virtualization layer that makes database interchangeable and easy to migrate to the cloud. The virtualization layer performs online translation of database queries and results, while being complete transparent to the original application.
 
-    - role: Greenplum Query Optimizer (ORCA)
-      time: 2013 - 2016
-      company: Pivotal
-      details: |
-        Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
+#     - role: Greenplum Query Optimizer (ORCA)
+#       time: 2013 - 2016
+#       company: Pivotal
+#       details: |
+#         Core member of the team that designed and developed the new Pivotal Query Optimizer (codename Orca), which is used by the query engine in both Pivotal Greenplum Database and Pivotal HAWQ (native SQL on Hadoop analytics database), targeting complex analytical queries over distributed data.
 
 projects:
     title: Professional Service
